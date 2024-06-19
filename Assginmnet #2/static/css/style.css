@@ -1,0 +1,26 @@
+*{
+    margin: 100;
+    padding: 100;
+}
+
+.container1{
+    display:block;
+    text-align: center;
+    width: 350px;
+    height: 140px;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    margin-left: -150px;
+    margin-top: -150px;
+    text-shadow: 0px 0px 10px rgb(253, 67, 191);
+    background-color: bisque;
+    box-shadow: 10px 10px 5px rgb(0, 0, 0, 0.6);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold',sans-serif;
+    font-size: 15px;
+    border: 2px solid black;
+}
+
+#queen {
+    font-size: 25px;
+}
